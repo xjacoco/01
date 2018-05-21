@@ -1,0 +1,13 @@
+ El volumen de la unidad D es ALMACEN
+ El n£mero de serie del volumen es: 8C29-3667
+
+ Directorio de D:\DAW\github01\01
+
+21/05/2018  20:02    <DIR>          .
+21/05/2018  20:02    <DIR>          ..
+21/05/2018  19:54               386 c1.txt
+21/05/2018  19:56               393 c2.txt
+21/05/2018  20:00               437 c3.txt
+21/05/2018  20:02                 0 c4.txt
+               4 archivos          1.216 bytes
+               2 dirs  776.932.974.592 bytes libres
